@@ -18,24 +18,11 @@ The Item Exchange System smart contract is a decentralized application that allo
 
 ## Getting Started
 
-### Installing
-
-Clone the repository or download the smart contract file.
-
-Ensure your development environment includes:
-
-- Node.js
-- Truffle
-- Ganache
-- MetaMask
-
-Navigate to your project directory using the terminal.
-
 ### Executing Program
 
 Compile the smart contract:
 
-
+```bash
 truffle compile
 
 truffle migrate --network development
@@ -49,6 +36,8 @@ await contract.redeemPoints(50); // Redeem 50 points
 
 
 truffle help
+
+```
 
 ## Help
 
@@ -64,7 +53,7 @@ truffle help
 
 ## Authors
 
-Reginald Carl Sanchez Hub: @Regie04
+Reginald Carl Sanchez GitHub: @Regie04
 
 ## License
 
