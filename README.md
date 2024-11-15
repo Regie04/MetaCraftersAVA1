@@ -35,7 +35,7 @@ Navigate to your project directory using the terminal.
 
 Compile the smart contract:
 
-```bash
+
 truffle compile
 
 truffle migrate --network development
@@ -64,7 +64,7 @@ truffle help
 
 ## Authors
 
-Dominique PizzieGitHub: @DomPizzie
+Reginald Carl Sanchez Hub: @Regie04
 
 ## License
 
