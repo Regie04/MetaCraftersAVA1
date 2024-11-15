@@ -49,3 +49,23 @@ await contract.redeemPoints(50); // Redeem 50 points
 
 
 truffle help
+
+## Help
+
+### Common Issues
+
+Ensure MetaMask is connected to the correct Ethereum network.
+
+Verify sufficient ETH balance for gas fees.
+
+### Helper Command
+
+truffle help
+
+## Authors
+
+Dominique PizzieGitHub: @DomPizzie
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
